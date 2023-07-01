@@ -1,9 +1,9 @@
 # A look into the correlation of different factors that influence movies
-
+Original dataset by Daniel Grijalva: [Link to dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 ## Overview
 
 The dataset includes a variety of information on 7,668 different movies with variables such as genre, country produced, release date, gross revenue, production budget,
-and total runtime. 
+and total runtime. The release dates of the movies ranges from 1980 to 2020.
 
 An analysis is conducted on the data to look for the strength of correlation among different movie variables. A correlation coefficient that is greater than 0.5 will be
 considered to be a significant relationship. 

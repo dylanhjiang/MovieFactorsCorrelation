@@ -1,4 +1,4 @@
-# Analysis in the correlation between different movie attributes
+# Analysis of correlations between different movie attributes
 Original dataset by Daniel Grijalva: [Link to dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 ## Overview
 
